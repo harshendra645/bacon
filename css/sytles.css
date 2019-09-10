@@ -1,0 +1,26 @@
+h1{
+  color: red;
+}
+img:hover{
+  background-color: gold;
+  width: 250px;
+  height: 175px;
+  filter: sepia(45%);
+
+}
+
+.hey{
+  background-color: red;
+}
+#heading{
+  color: red;
+}
+#one{
+  color: green;
+}
+#two{
+  color: yellow;
+}
+#three{
+    color: violet;
+}
